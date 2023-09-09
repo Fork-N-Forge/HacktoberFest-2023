@@ -1,4 +1,5 @@
-![Hacktoberfest](https://github.com/Fork-N-Forge/HacktoberFest-2023/assets/92796050/cf2169eb-c45d-4560-a6b5-416b58b65e9e)
+![Hack2023](https://github.com/Fork-N-Forge/HacktoberFest-2023/assets/92796050/f96a74f7-f772-4844-97e0-59cf22e18899)
+
 
 <h4>Hacktoberfest is digitalocean's annual event that encourages people to contribute to open source throughout october. Much of modern tech infrstructure including some of digitalocean's own products-relies on open-source projects built and maintained by passionate people who often don't have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all the things open source, especially the people that make open source so special.<h4>
 
