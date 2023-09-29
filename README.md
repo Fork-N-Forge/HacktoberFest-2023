@@ -17,6 +17,21 @@ Fork-N-Forge's hacktober repository , you're welcome to get started in the world
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+# 📌 Videos 📽️:
+
+- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
+- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
+- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+
+
+# Contribution Rules📚:
+
+- You are allowed to make pull requests that break the rules. We just merge it ;)
+- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
+- Do NOT remove other content.
+- Styling/code can be pretty, ugly or stupid, big or small as long as it works
+<!-- - Add your name to the contributorsList file. -->
+- Try to keep pull requests small to minimize merge conflicts
 
 
 ### Installation
@@ -142,3 +157,34 @@ Sr. no | Topic | Repo Link |
 |---|---|---|
 | 1 | Sample Topic | [Sample Link](https://www.adoptapet.com/public/apis/pet_list.html) |
 
+## Swags of Hacktoberfest:
+- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+ 
+     <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
+</b></li>
+
+# FAQs (Frequently Asked Questions)
+
+- Who all can contribute?
+  - Anyone with a github account and who is signed up for
+[hacktoberfest](https://hacktoberfest.com/register/) :)
+- Are you getting paid for this?
+  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+- Who are you and why are you doing this?
+  - We are the programmers from India.We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+- Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
+  - Nope.
+- How many pull request (PR) must be made, if I want to get an awesome tshirt from Hacktoberfest 2022?
+  - 4
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2023?
+  - [go to ->](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+- What is the duration of Hacktoberfest 2023?
+  - It is from 1st october to 31st october 2023...
+- What is the event for?
+  - For the open source community engagement and learn how to contribute to open source.
+
+
+
+
+###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
+<br>
