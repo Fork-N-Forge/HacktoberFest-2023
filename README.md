@@ -169,7 +169,7 @@ Sr. no | Topic | Repo Link |
   - We are the programmers from India.We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
   - Nope.
-- How many pull request (PR) must be made, if I want to get an awesome tshirt from Hacktoberfest 2022?
+- How many pull request (PR) must be made for Hacktoberfest 2023?
   - 4
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2023?
   - [go to ->](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
