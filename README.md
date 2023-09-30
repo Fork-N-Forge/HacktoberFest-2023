@@ -171,7 +171,7 @@ Sr. no | Topic | Repo Link |
   - Nope.
 - How many pull request (PR) must be made for Hacktoberfest 2023?
   - 4
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2023?
+- How do I track my progress for Hacktoberfest 2023?
   - [go to ->](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
 - What is the duration of Hacktoberfest 2023?
   - It is from 1st october to 31st october 2023...
