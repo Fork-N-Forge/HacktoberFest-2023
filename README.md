@@ -151,12 +151,34 @@ $ git push -u origin BranchName
 
 ## List of Repositories to contribute 
 
-### Sample Topic
+### Projects for Experienced & Beginners
 
 Sr. no | Topic | Repo Link |  
 |---|---|---|
-| 1 | Sample Topic | [Sample Link](https://www.adoptapet.com/public/apis/pet_list.html) |
+| 1 | novuhq/novu | [Project Link](https://github.com/novuhq/novu) |
+| 2 | novuhq/novu-python | [Project Link](https://github.com/novuhq/novu-python) |
+| 3 | novuhq/go-novu | [Project Link](https://github.com/novuhq/go-novu) |
+| 4 | novu-php | [Project Link](https://github.com/novuhq/novu-php) |
+| 5 | novu-ruby | [Project Link](https://github.com/novuhq/novu-ruby) |
+| 6 | novu-kotlin | [Project Link](https://github.com/novuhq/novu-kotlin) |
+| 7 | configu | [Project Link](https://github.com/configu/configu) |
+| 8 | amplication| [Project Link](https://github.com/amplication/amplication) |
+| 9 | amplication/docs | [Project Link](https://github.com/amplication/docs) |
+| 10 | Appwrite | [Project Link](https://github.com/appwrite/appwrite) |
+| 11 | Appwrite | [Project Link](https://github.com/appwrite/appwrite) |
+| 12 | digitalocean/godo | [Project Link](https://github.com/digitalocean/godo) |
 
+### If you want to contribute to more big projects, then go through the below website, you can find a lot of amazing open-source projects for hacktoberfest 2023
+[https://atlas.scoutflo.com/hacktoberfest]
+
+### Also you can find beginner & hard-level projects here also.
+[https://github.com/topics/hacktoberfest]
+
+Beginner Level Projects for Open Source Contribution
+| 1 | Python-Sala | [Project Link](https://github.com/Fork-N-Forge/Python-Sala) |
+| 2 | free-programming-books | [Project Link]([https://github.com/Fork-N-Forge/Python-Sala](https://github.com/EbookFoundation/free-programming-books ) |
+| 3 | The Algorithms-Python | [Project Link](https://github.com/TheAlgorithms/Python) |
+| 4 | ohmyzsh | [Project Link](https://github.com/ohmyzsh/ohmyzsh) |
 
 # FAQs (Frequently Asked Questions) ❓
 
