@@ -153,7 +153,7 @@ $ git push -u origin BranchName
 
 ### Projects for Experienced & Beginners
 
-Sr. no | Topic | Repo Link |  
+Sr. no | Project | Repo Link |  
 |---|---|---|
 | 1 | novuhq/novu | [Project Link](https://github.com/novuhq/novu) |
 | 2 | novuhq/novu-python | [Project Link](https://github.com/novuhq/novu-python) |
@@ -175,6 +175,9 @@ Sr. no | Topic | Repo Link |
 [https://github.com/topics/hacktoberfest]
 
 Beginner Level Projects for Open Source Contribution
+
+Sr. no | Project | Repo Link |  
+|---|---|---|
 | 1 | Python-Sala | [Project Link](https://github.com/Fork-N-Forge/Python-Sala) |
 | 2 | free-programming-books | [Project Link]([https://github.com/Fork-N-Forge/Python-Sala](https://github.com/EbookFoundation/free-programming-books ) |
 | 3 | The Algorithms-Python | [Project Link](https://github.com/TheAlgorithms/Python) |
