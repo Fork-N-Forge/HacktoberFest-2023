@@ -31,6 +31,7 @@ To get a local copy up and running follow these simple steps.
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
 <!-- - Add your name to the contributorsList file. -->
+<!--sam >
 - Try to keep pull requests small to minimize merge conflicts
 
 
